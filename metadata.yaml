@@ -1,0 +1,29 @@
+_repo: Printing-Telegraphy-A-New-Era-Begins_53481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kleinschmidt, Edward E.
+    alias: Kleinschmidt, Edward Ernst
+    birthdate: 1876
+    deathdate: 1977
+    gutenberg_agent_id: '47394'
+    url: http://www.gutenberg.org/2009/agents/47394
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Kleinschmidt
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2016-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telegraph -- Equipment and supplies'
+- !lcsh 'Teletype -- History'
+- !lcsh 'SCM Corporation. Kleinschmidt Division'
+- !lcc 'TK'
+- GITenberg
+title: Printing Telegraphy... A New Era Begins
+url: http://www.gutenberg.org/ebooks/53481
