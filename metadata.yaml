@@ -1,5 +1,8 @@
 _repo: Printing-Telegraphy-A-New-Era-Begins_53481
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53481-h/images/cover.jpg
 creator:
   author:
     agent_name: Kleinschmidt, Edward E.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47394
     wikipedia: https://en.wikipedia.org/wiki/Edward_Kleinschmidt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53481#Printing-Telegraphy-A-New-Era-Begins
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2016-11-09'
 gutenberg_type: Text
